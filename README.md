@@ -3,8 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects :</h2>
 
 - <b>Cloud SOC SIEM Project </b>
-(https://github.com/prinxenadana/Cloud-SOC)- 
-
+[https://github.com/prinxenadana/Cloud-SOC]
 
 
 
