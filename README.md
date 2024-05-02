@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects :</h2>
 
 - <b>Cloud SOC SIEM Project </b>
-[https://github.com/prinxenadana/Cloud-SOC]
+-[Azure live SOC / Honeynet](https://github.com/prinxenadana/Cloud-SOC)
 
 
 
