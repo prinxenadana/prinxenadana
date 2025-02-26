@@ -1,4 +1,4 @@
-<h1>Hi, I'm Prinxe! <br/><a href="https://github.com/prinxenadana">Passionate Cybersecurity SOC Analyst </a> </h1>
+<h1>Hi, I'm Prinxe! <br/><a href="https://github.com/prinxenadana"> Cybersecurity SOC Analyst </a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects :</h2>
 
