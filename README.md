@@ -4,7 +4,9 @@
 
 - <b>Cloud SOC SIEM Project </b>
 -[Azure live SOC / Honeynet](https://github.com/prinxenadana/Cloud-SOC)
--[Tenable Vulnerability Management(https://github.com/prinxenadana/vulnerabilitymanagement)
+
+- <b>Tenable Vulnerability Management </b>
+  [Tenable Vulnerability Management](https://github.com/prinxenadana/vulnerabilitymanagement)
 
 [<img align="left" alt="Prinxe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
