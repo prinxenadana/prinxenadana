@@ -13,7 +13,7 @@
 
 <h3> OSINT Tools : </h3>
 - <b> TextTrace </b>
-[TextTrace](https://github.com/prinxenadana/texttrace).
+(https://github.com/prinxenadana/texttrace).
 
 [<img align="left" alt="Prinxe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
