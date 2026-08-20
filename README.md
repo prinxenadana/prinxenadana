@@ -11,6 +11,10 @@
 - <b>Tenable Vulnerability Compliance Scan  </b>
 [Tenable Vulnerability Compliance Scan](https://www.notion.so/Tenable-DISA-Scan-18fbf30b365c80b4a32beca533b79338)
 
+<h3> OSINT Tools : </h3>
+- <b> TextTrace </b>
+[TextTrace](https://github.com/prinxenadana/texttrace).
+
 [<img align="left" alt="Prinxe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
